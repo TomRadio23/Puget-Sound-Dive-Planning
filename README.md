@@ -10,9 +10,9 @@ This project seeks to explore the intricate relationship between lunar phases, t
 2. Lunar Data: Astronomical Applications Department of the U.S. Naval Observatory
 3. Dive Site Information: Local dive shops
 
-## Research Questions and Cleaning Procedures
+## Research Questions
 
-We addressed the following research questions:
+The following research questions were addressed:
 
 1. How do lunar phases influence underwater currents and tidal conditions at Puget Sound dive sites?
 2. Are there differences in underwater conditions between dive sites?
